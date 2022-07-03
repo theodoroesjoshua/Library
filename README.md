@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/theodoroesjoshua/Library"></a>
 
-<h3 align="center">Calculator</h3>
+<h3 align="center">Library</h3>
 
   <p align="center">
     <br />
